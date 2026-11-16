@@ -5,6 +5,9 @@
 ![workflow](images/workflow.gif)
 <!-- 流程圖：AlphaFold → CHARMM-GUI phosphorylation → MD → snapshot selection → pocket detection → docking → MD → MM/GBSA -->
 
+### Dynamic Transition: Active (pY419) ↔ Inactive (pY530)
+![MD Transition](images/transition.gif)
+
 ![summary](figures/summary_figure.png)
 <!-- 一張總結圖，顯示 Bosutinib 與 Imatinib 在兩個狀態下的對接分數差異 -->
 
