@@ -2,11 +2,11 @@
 
 > Benchmark Study Phase 1: Validated an automated MD-ensemble docking workflow on Src kinase, successfully reproducing the clinical selectivity of Bosutinib (Type I/I½) and Imatinib (Type II) against distinct phosphorylation states.
 
-![workflow](images/workflow.gif)
+![workflow](images/workflow.png)
 <!-- 流程圖：AlphaFold → CHARMM-GUI phosphorylation → MD → snapshot selection → pocket detection → docking → MD → MM/GBSA -->
 
 ### Dynamic Transition: Active (pY419) ↔ Inactive (pY530)
-![MD Transition](images/transition.gif)
+![MD Transition](images/workflow.gif)
 
 ![summary](figures/summary_figure.png)
 <!-- 一張總結圖，顯示 Bosutinib 與 Imatinib 在兩個狀態下的對接分數差異 -->
