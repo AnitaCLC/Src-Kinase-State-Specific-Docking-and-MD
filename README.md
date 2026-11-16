@@ -8,7 +8,7 @@
 ### Dynamic Transition: Active (pY419) ↔ Inactive (pY530)
 ![MD Transition](images/pY419TOpY530.gif)
 
-![summary](results/CNN score.png)
+![summary](results/CNN_score.png)
 <!-- 一張總結圖，顯示 Bosutinib 與 Imatinib 在兩個狀態下的對接分數差異 -->
 
 ## 1. Motivation
